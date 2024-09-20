@@ -21,5 +21,12 @@ namespace BarberShop.API.Controllers
         {
             return _clientesService.GetClientes();
         }
+
+        [HttpPost]
+        public string CadastraCliente([FromForm]ClienteViewModel cliente) 
+        {
+            return _clientesService.CadastraCliente(cliente);
+        }
+
     }
 }

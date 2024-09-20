@@ -24,7 +24,7 @@ namespace BarberShop.Repository.Repositories
             var resultado = string.Empty;
             try
             {                
-                var insert = $" INSERT INTO CLIENTES (NOME, TELEFONE, EMAIL) VALUES('{cliente.nome},'{cliente.telefone},'{cliente.email}') ";
+                var insert = $" INSERT INTO CLIENTES (NOME, TELEFONE, EMAIL) VALUES('{cliente.nome.ToUpper()}','{cliente.telefone}','{cliente.email.ToUpper()}') ";
 
                 using(var conn = _dbContext.CreateConnection())
                 {
@@ -44,8 +44,7 @@ namespace BarberShop.Repository.Repositories
         public List<ClienteViewModel> GetClientes()
         {
             try
-            {
-                var listClientes = new List<ClienteViewModel>();
+            {                
 
                 var query = @"select
 	                            c.nome ,
@@ -55,15 +54,9 @@ namespace BarberShop.Repository.Repositories
 
                 using (var conn = _dbContext.CreateConnection())
                 {
-                    var result = conn.Query<ClienteViewModel>(query);
-
-                    foreach (var lista in result)
-                    {
-                        listClientes.Add(lista);
-                    }
+                    return conn.Query<ClienteViewModel>(query).ToList();                   
                 }
-
-                return listClientes;
+             
             }
             catch (Exception ex) 
             {

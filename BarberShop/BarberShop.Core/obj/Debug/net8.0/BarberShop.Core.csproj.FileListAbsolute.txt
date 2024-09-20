@@ -1,0 +1,13 @@
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\bin\Debug\net8.0\BarberShop.Core.deps.json
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\bin\Debug\net8.0\BarberShop.Core.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\bin\Debug\net8.0\BarberShop.Core.pdb
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.csproj.AssemblyReference.cache
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.AssemblyInfoInputs.cache
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.AssemblyInfo.cs
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.sourcelink.json
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\refint\BarberShop.Core.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.pdb
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Core\obj\Debug\net8.0\ref\BarberShop.Core.dll

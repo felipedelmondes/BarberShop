@@ -23,6 +23,10 @@ namespace BarberShop.API
             builder.Services.AddTransient<DBContext, DBContext>();
             builder.Services.AddTransient<IClientesRepositories, ClientesRepositories>();
             builder.Services.AddTransient<IClientesServices, ClientesServices>();
+            builder.Services.AddTransient<IFuncionariosServices, FuncionariosService>();
+            builder.Services.AddTransient<IFuncionariosRepositories, FuncionariosRepositories>();
+            builder.Services.AddTransient<IServicosService, ServicosService>();
+            builder.Services.AddTransient<IServicosRepositories, ServicosRepositories>();
 
             var app = builder.Build();
 

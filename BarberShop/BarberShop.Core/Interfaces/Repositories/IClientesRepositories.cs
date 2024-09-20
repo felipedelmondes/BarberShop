@@ -11,5 +11,6 @@ namespace BarberShop.Core.Interfaces.Repositories
     {
         List<ClienteViewModel> GetClientes();
         string CadastraCliente(ClienteViewModel cliente);
+        
     }
 }
