@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
@@ -11,12 +11,10 @@
     <PackageReference Include="Dapper.Extensions.PostgreSQL" Version="5.1.4" />
     <PackageReference Include="Dapper.ORM" Version="1.0.0.7" />
     <PackageReference Include="Npgsql" Version="8.0.4" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\BarberShop.Core\BarberShop.Core.csproj" />
-    <ProjectReference Include="..\BarberShop.Repository\BarberShop.Repository.csproj" />
   </ItemGroup>
 
 </Project>

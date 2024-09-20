@@ -1,4 +1,9 @@
 
+using BarberShop.Core.Interfaces.Repositories;
+using BarberShop.Core.Interfaces.Services;
+using BarberShop.Core.Services;
+using BarberShop.Repository.Repositories;
+
 namespace BarberShop.API
 {
     public class Program
@@ -13,6 +18,11 @@ namespace BarberShop.API
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            //services
+            builder.Services.AddTransient<DBContext, DBContext>();
+            builder.Services.AddTransient<IClientesRepositories, ClientesRepositories>();
+            builder.Services.AddTransient<IClientesServices, ClientesServices>();
 
             var app = builder.Build();
 
