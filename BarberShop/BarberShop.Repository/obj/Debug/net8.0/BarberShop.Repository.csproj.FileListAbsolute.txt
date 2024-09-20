@@ -1,0 +1,16 @@
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\bin\Debug\net8.0\BarberShop.Repository.deps.json
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\bin\Debug\net8.0\BarberShop.Repository.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\bin\Debug\net8.0\BarberShop.Repository.pdb
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\bin\Debug\net8.0\BarberShop.Core.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\bin\Debug\net8.0\BarberShop.Core.pdb
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberShop.Repository.csproj.AssemblyReference.cache
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberShop.Repository.AssemblyInfoInputs.cache
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberShop.Repository.AssemblyInfo.cs
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberShop.Repository.sourcelink.json
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberSh.A437F876.Up2Date
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberShop.Repository.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\refint\BarberShop.Repository.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\BarberShop.Repository.pdb
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.Repository\obj\Debug\net8.0\ref\BarberShop.Repository.dll

@@ -4,6 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberShop.API", "BarberShop.API\BarberShop.API.csproj", "{BB6080E3-46CB-4A0F-AB38-40B878028323}"
+	ProjectSection(ProjectDependencies) = postProject
+		{02473259-BDD8-4EBC-B891-B95B759E7D7C} = {02473259-BDD8-4EBC-B891-B95B759E7D7C}
+		{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA} = {C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberShop.Core", "BarberShop.Core\BarberShop.Core.csproj", "{02473259-BDD8-4EBC-B891-B95B759E7D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberShop.Repository", "BarberShop.Repository\BarberShop.Repository.csproj", "{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,14 @@ Global
 		{BB6080E3-46CB-4A0F-AB38-40B878028323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB6080E3-46CB-4A0F-AB38-40B878028323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB6080E3-46CB-4A0F-AB38-40B878028323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02473259-BDD8-4EBC-B891-B95B759E7D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02473259-BDD8-4EBC-B891-B95B759E7D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02473259-BDD8-4EBC-B891-B95B759E7D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02473259-BDD8-4EBC-B891-B95B759E7D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
