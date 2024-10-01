@@ -1,5 +1,56 @@
 [
   {
+    "ContainingType": "BarberShop.API.Controllers.AgendamentoController",
+    "Method": "Agendamento",
+    "RelativePath": "api/Agendamento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "client_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "funcionario_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "servico_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "data_agendamento",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "hora_agendamento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BarberShop.Core.Models.DTOs.AgendamentoResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "BarberShop.API.Controllers.ClientesController",
     "Method": "GetClientes",
     "RelativePath": "api/Clientes",

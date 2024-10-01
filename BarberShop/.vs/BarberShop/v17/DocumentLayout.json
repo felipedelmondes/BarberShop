@@ -3,15 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\.github\\workflows\\dotnet.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A59FE49F-D1CC-4575-9CB3-4E0269A66A84}|BarberShop.Tests\\BarberShop.Tests.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.tests\\testeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59FE49F-D1CC-4575-9CB3-4E0269A66A84}|BarberShop.Tests\\BarberShop.Tests.csproj|solutionrelative:barbershop.tests\\testeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59FE49F-D1CC-4575-9CB3-4E0269A66A84}|BarberShop.Tests\\BarberShop.Tests.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.tests\\barbershop.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A59FE49F-D1CC-4575-9CB3-4E0269A66A84}|BarberShop.Tests\\BarberShop.Tests.csproj|solutionrelative:barbershop.tests\\barbershop.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.api\\barbershop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|solutionrelative:barbershop.api\\barbershop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A59FE49F-D1CC-4575-9CB3-4E0269A66A84}|BarberShop.Tests\\BarberShop.Tests.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.tests\\barbershop.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A59FE49F-D1CC-4575-9CB3-4E0269A66A84}|BarberShop.Tests\\BarberShop.Tests.csproj|solutionrelative:barbershop.tests\\barbershop.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}|BarberShop.Repository\\BarberShop.Repository.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.repository\\repositories\\agendamentorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}|BarberShop.Repository\\BarberShop.Repository.csproj|solutionrelative:barbershop.repository\\repositories\\agendamentorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.core\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|solutionrelative:barbershop.core\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.api\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|solutionrelative:barbershop.api\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.core\\models\\dtos\\agendamentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|solutionrelative:barbershop.core\\models\\dtos\\agendamentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.core\\models\\dtos\\agendamentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|solutionrelative:barbershop.core\\models\\dtos\\agendamentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|solutionrelative:barbershop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.core\\interfaces\\services\\iagendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|solutionrelative:barbershop.core\\interfaces\\services\\iagendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.core\\interfaces\\repositories\\iagendamentorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02473259-BDD8-4EBC-B891-B95B759E7D7C}|BarberShop.Core\\BarberShop.Core.csproj|solutionrelative:barbershop.core\\interfaces\\repositories\\iagendamentorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}|BarberShop.Repository\\BarberShop.Repository.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.repository\\repositories\\clientesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32BFEF6-86B3-40AE-A2AF-317A8E65B1FA}|BarberShop.Repository\\BarberShop.Repository.csproj|solutionrelative:barbershop.repository\\repositories\\clientesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|solutionrelative:barbershop.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\.github\\workflows\\dotnet.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB6080E3-46CB-4A0F-AB38-40B878028323}|BarberShop.API\\BarberShop.API.csproj|c:\\users\\luisd\\documents\\repo\\barbearia\\barbershop\\barbershop\\barbershop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -29,54 +77,205 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BarberShop.API",
+              "Title": "BarberShop.Tests",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Tests\\BarberShop.Tests.csproj",
+              "RelativeDocumentMoniker": "BarberShop.Tests\\BarberShop.Tests.csproj",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Tests\\BarberShop.Tests.csproj",
+              "RelativeToolTip": "BarberShop.Tests\\BarberShop.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T00:40:04.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarberShop.Tests",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Tests\\BarberShop.Tests.csproj",
+              "RelativeDocumentMoniker": "BarberShop.Tests\\BarberShop.Tests.csproj",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Tests\\BarberShop.Tests.csproj",
+              "RelativeToolTip": "BarberShop.Tests\\BarberShop.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T00:38:14.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteAPI.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Tests\\TesteAPI.cs",
+              "RelativeDocumentMoniker": "BarberShop.Tests\\TesteAPI.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Tests\\TesteAPI.cs",
+              "RelativeToolTip": "BarberShop.Tests\\TesteAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:37:42.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgendamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Services\\AgendamentoService.cs",
+              "RelativeDocumentMoniker": "BarberShop.Core\\Services\\AgendamentoService.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Services\\AgendamentoService.cs",
+              "RelativeToolTip": "BarberShop.Core\\Services\\AgendamentoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:54:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAgendamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Interfaces\\Services\\IAgendamentoService.cs",
+              "RelativeDocumentMoniker": "BarberShop.Core\\Interfaces\\Services\\IAgendamentoService.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Interfaces\\Services\\IAgendamentoService.cs",
+              "RelativeToolTip": "BarberShop.Core\\Interfaces\\Services\\IAgendamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:53:51.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientesRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Repository\\Repositories\\ClientesRepositories.cs",
+              "RelativeDocumentMoniker": "BarberShop.Repository\\Repositories\\ClientesRepositories.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Repository\\Repositories\\ClientesRepositories.cs",
+              "RelativeToolTip": "BarberShop.Repository\\Repositories\\ClientesRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:49:13.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgendamentoRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Repository\\Repositories\\AgendamentoRepositories.cs",
+              "RelativeDocumentMoniker": "BarberShop.Repository\\Repositories\\AgendamentoRepositories.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Repository\\Repositories\\AgendamentoRepositories.cs",
+              "RelativeToolTip": "BarberShop.Repository\\Repositories\\AgendamentoRepositories.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:35:13.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgendamentoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Models\\DTOs\\AgendamentoRequest.cs",
+              "RelativeDocumentMoniker": "BarberShop.Core\\Models\\DTOs\\AgendamentoRequest.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Models\\DTOs\\AgendamentoRequest.cs",
+              "RelativeToolTip": "BarberShop.Core\\Models\\DTOs\\AgendamentoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:32:44.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgendamentoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Models\\DTOs\\AgendamentoResponse.cs",
+              "RelativeDocumentMoniker": "BarberShop.Core\\Models\\DTOs\\AgendamentoResponse.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Models\\DTOs\\AgendamentoResponse.cs",
+              "RelativeToolTip": "BarberShop.Core\\Models\\DTOs\\AgendamentoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:31:10.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAgendamentoRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Interfaces\\Repositories\\IAgendamentoRepositories.cs",
+              "RelativeDocumentMoniker": "BarberShop.Core\\Interfaces\\Repositories\\IAgendamentoRepositories.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.Core\\Interfaces\\Repositories\\IAgendamentoRepositories.cs",
+              "RelativeToolTip": "BarberShop.Core\\Interfaces\\Repositories\\IAgendamentoRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:29:58.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarberShop.API.csproj",
               "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\BarberShop.API.csproj",
               "RelativeDocumentMoniker": "BarberShop.API\\BarberShop.API.csproj",
               "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\BarberShop.API.csproj",
               "RelativeToolTip": "BarberShop.API\\BarberShop.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-20T23:35:33.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "BarberShop.API\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "BarberShop.API\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:54:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "BarberShop.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "BarberShop.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:25:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "dotnet.yml",
               "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\.github\\workflows\\dotnet.yml",
               "RelativeDocumentMoniker": "..\\.github\\workflows\\dotnet.yml",
               "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\.github\\workflows\\dotnet.yml",
               "RelativeToolTip": "..\\.github\\workflows\\dotnet.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-09-20T23:35:49.737Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\Program.cs",
               "RelativeDocumentMoniker": "BarberShop.API\\Program.cs",
               "ToolTip": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\Program.cs",
               "RelativeToolTip": "BarberShop.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwB4AAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T21:20:39.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\appsettings.json",
               "RelativeDocumentMoniker": "BarberShop.API\\appsettings.json",
@@ -89,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\luisd\\Documents\\Repo\\Barbearia\\BarberShop\\BarberShop\\BarberShop.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BarberShop.API\\appsettings.Development.json",

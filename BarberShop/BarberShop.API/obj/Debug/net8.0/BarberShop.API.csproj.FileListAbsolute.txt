@@ -17,7 +17,10 @@ C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin
 C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
 C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\luisd\Documents\Repo\Barbearia\BarberShop\BarberShop\BarberShop.API\bin\Debug\net8.0\MySql.Data.dll
